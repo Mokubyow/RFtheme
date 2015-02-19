@@ -1,0 +1,6 @@
+/figure
+stata/*.png
+Rproj.user
+*.Rproj
+.Rproj.user
+inst/doc
